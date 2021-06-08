@@ -1,14 +1,14 @@
 {
-      "name": "EMCEE",
+      "name": "Anisha",
       "description": "Telegram group management bot.",
       "keywords": [
          "telegram",
          "anime",
          "group",
          "manager",
-         "Emcee"
+         "Anisha"
       ],   
-   "repository": "https://github.com/Aquila-14/EMCEE",
+   "repository": "https://github.com/Lizzy-Robot/EMCEE",
    "addons": [
       {
          "options": {
@@ -173,7 +173,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it linking to paul",
          "required": false,
-         "value": "https://www.paypal.me/PaulSonOfLars"
+         "value": "https//t.me/Lover_xd"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
