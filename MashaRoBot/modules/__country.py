@@ -19,7 +19,7 @@ async def msg(event):
     try:
 	    a = country.info()
     except:
-	    await event.reply("Country Not Avaiable Currently")
+	    await event.reply("Country Is Not Avaiable Currently")
     name = a.get("name")
     bb= a.get("altSpellings")
     hu = ''
@@ -101,7 +101,7 @@ Time Zones:- {tom}
 Top Level Domain:- {lanester}
 wikipedia:- {wiki}</b>
 
-Gathered By EMCEE.</b>
+Gathered By Anisha.</b>
 """
     
     
